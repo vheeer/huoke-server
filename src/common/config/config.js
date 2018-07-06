@@ -13,7 +13,7 @@ let mch_id = "1504380921";
 // let notify_url = "https://www.yinmudianying.club/nideshop-mul/api/pay/notify";
 let notify_url = "https://www.yinmudianying.club/nideshop-mul-dev/api/pay/notify";
 module.exports = {
-  port: 8362, // server port生产模式下为8361
+  port: 8363, // server port生产模式下为8361
   default_module: 'api',
   default_controller: 'auth', 
   default_action: 'test',
